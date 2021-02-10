@@ -112,7 +112,7 @@ img {
 input[type="text"], textarea {
     padding: 15px;
     border: 1px solid #3b3b3b;
-    background-color: #3b3b3b;
+    background-color: #ddd;
     color: #a6a6a6;
     resize: none;
     width: 95.2%;
